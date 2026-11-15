@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+PyWavelets
+yfinance
+jupyter
+nbconvert
+nbclient
+ipykernel

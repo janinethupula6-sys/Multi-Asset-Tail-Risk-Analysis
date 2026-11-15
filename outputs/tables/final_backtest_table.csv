@@ -1,0 +1,25 @@
+Dataset,Model,Confidence,Observations,Violations,Violation_Rate,Expected_Rate,Kupiec_p,Christoffersen_p,Conditional_p,Kupiec_Pass,Independence_Pass,Conditional_Pass
+Short_Normal,Single-Dependence Gaussian,95%,880,19,0.02159090909090909,0.05,1.4292113433289622e-05,0.35951028235403315,5.356195146033471e-05,False,True,False
+Short_Normal,Regime-Horizon Student-t,95%,880,21,0.023863636363636365,0.05,7.988429387173479e-05,0.31061129760690576,0.0002498745494561305,False,True,False
+Short_Stress,Single-Dependence Gaussian,95%,59,1,0.01694915254237288,0.05,0.17929505673956947,0.8514082003946838,0.3988086587944125,True,True,True
+Short_Stress,Regime-Horizon Student-t,95%,59,1,0.01694915254237288,0.05,0.17929505673956947,0.8514082003946838,0.3988086587944125,True,True,True
+Medium_Normal,Single-Dependence Gaussian,95%,880,18,0.020454545454545454,0.05,5.5922764579108275e-06,9.667766587284632e-11,2.6645352591003757e-14,False,False,False
+Medium_Normal,Regime-Horizon Student-t,95%,880,22,0.025,0.05,0.0001756203380048893,1.3493206552084303e-10,9.756639940405876e-13,False,False,False
+Medium_Stress,Single-Dependence Gaussian,95%,59,2,0.03389830508474576,0.05,0.547741076964162,0.032082492800007634,0.08393341447072833,True,False,True
+Medium_Stress,Regime-Horizon Student-t,95%,59,2,0.03389830508474576,0.05,0.547741076964162,0.032082492800007634,0.08393341447072833,True,False,True
+Long_Normal,Single-Dependence Gaussian,95%,880,12,0.013636363636363636,0.05,5.435950467536088e-09,0.0,0.0,False,False,False
+Long_Normal,Regime-Horizon Student-t,95%,880,12,0.013636363636363636,0.05,5.435950467536088e-09,0.0,0.0,False,False,False
+Long_Stress,Single-Dependence Gaussian,95%,59,0,0.0,0.05,0.01388576675290576,,,False,False,False
+Long_Stress,Regime-Horizon Student-t,95%,59,0,0.0,0.05,0.01388576675290576,,,False,False,False
+Short_Normal,Single-Dependence Gaussian,99%,880,1,0.0011363636363636363,0.01,0.0007667160211130009,0.961933496039258,0.0034783374510120035,False,True,False
+Short_Normal,Regime-Horizon Student-t,99%,880,1,0.0011363636363636363,0.01,0.0007667160211130009,0.961933496039258,0.0034783374510120035,False,True,False
+Short_Stress,Single-Dependence Gaussian,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False
+Short_Stress,Regime-Horizon Student-t,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False
+Medium_Normal,Single-Dependence Gaussian,99%,880,2,0.0022727272727272726,0.01,0.005441551430481417,0.0015539399262344267,0.0001405387043927897,False,False,False
+Medium_Normal,Regime-Horizon Student-t,99%,880,2,0.0022727272727272726,0.01,0.005441551430481417,0.0015539399262344267,0.0001405387043927897,False,False,False
+Medium_Stress,Single-Dependence Gaussian,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False
+Medium_Stress,Regime-Horizon Student-t,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False
+Long_Normal,Single-Dependence Gaussian,99%,880,4,0.004545454545454545,0.01,0.06849434831204182,2.4815763777219502e-08,3.398917580721417e-08,True,False,False
+Long_Normal,Regime-Horizon Student-t,99%,880,3,0.003409090909090909,0.01,0.022826093288962346,5.3656846540350855e-06,2.3955429794275673e-06,False,False,False
+Long_Stress,Single-Dependence Gaussian,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False
+Long_Stress,Regime-Horizon Student-t,99%,59,0,0.0,0.01,0.2761501135626929,,,True,False,False

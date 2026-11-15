@@ -1,0 +1,7 @@
+Pair,Short_Normal,Short_Stress,Medium_Normal,Medium_Stress,Long_Normal,Long_Stress
+GLD-BTC-USD,Gaussian,Student-t,Gumbel,Gumbel,Gumbel,Student-t
+SPY-BTC-USD,Student-t,Student-t,Clayton,Student-t,Student-t,Clayton
+SPY-GLD,Student-t,Student-t,Student-t,Student-t,Gaussian,Student-t
+SPY-TLT,Student-t,Student-t,Student-t,Student-t,Student-t,Gaussian
+TLT-BTC-USD,Gaussian,Student-t,Gaussian,Gumbel,Gaussian,Gaussian
+TLT-GLD,Student-t,Student-t,Student-t,Student-t,Student-t,Gaussian

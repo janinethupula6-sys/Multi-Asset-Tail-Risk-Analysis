@@ -1,0 +1,5 @@
+Model,Confidence,Kupiec_Pass,Independence_Pass,Conditional_Pass
+Regime-Horizon Student-t,95%,2,2,2
+Regime-Horizon Student-t,99%,3,1,0
+Single-Dependence Gaussian,95%,2,2,2
+Single-Dependence Gaussian,99%,4,1,0

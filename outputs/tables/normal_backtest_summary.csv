@@ -1,0 +1,5 @@
+Model,Confidence,Mean_Violation_Rate,Mean_Absolute_Error,Kupiec_Passes,Conditional_Passes
+Regime-Horizon Student-t,95%,0.020833333333333332,0.02916666666666667,0,0
+Regime-Horizon Student-t,99%,0.0022727272727272726,0.007727272727272728,0,0
+Single-Dependence Gaussian,95%,0.01856060606060606,0.03143939393939394,0,0
+Single-Dependence Gaussian,99%,0.0026515151515151512,0.007348484848484848,1,0
